@@ -1,0 +1,1 @@
+# opencore-msi-mpg-z490-gcw-i7-10700k
